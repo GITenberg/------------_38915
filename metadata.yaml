@@ -1,0 +1,46 @@
+_repo: '------------_38915'
+_version: 0.1.0
+alternative_title: Anna Karenina. Greek
+contributor:
+  translator:
+    agent_name: Economopoulos, Elias
+    alias: Οικονομόπουλος, Ηλίας
+    birthdate: 1868
+    deathdate: 1929
+    gutenberg_agent_id: '39679'
+    url: http://www.gutenberg.org/2009/agents/39679
+covers:
+- cover_type: archival
+  image_path: 38915-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoi, Leo
+    - Толстой, Лев Николаевич
+    - Tolstoy, Graf Leo
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38915'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcc 'PG'
+title: Άννα Καρένιν
+url: http://www.gutenberg.org/ebooks/38915
